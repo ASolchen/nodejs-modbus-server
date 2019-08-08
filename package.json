@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-modbus-server",
+  "version": "1.0.0",
+  "description": "Quick and dirty modbus TCP server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASolchen/nodejs-modbus-server.git"
+  },
+  "keywords": [
+    "Modbus"
+  ],
+  "author": "asolchenberger@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASolchen/nodejs-modbus-server/issues"
+  },
+  "homepage": "https://github.com/ASolchen/nodejs-modbus-server#readme",
+  "dependencies": {
+    "jsmodbus": "^3.1.3"
+  }
+}
